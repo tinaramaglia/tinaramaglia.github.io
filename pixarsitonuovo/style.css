@@ -1,0 +1,77 @@
+*{
+    width: 100%;
+    margin: 0 auto;
+} 
+
+.logo{
+    margin-left: 90px;
+    margin-top: 50px;
+}
+
+h1{
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    margin-top: 100px;
+}
+
+p, .text{
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 30px;
+    margin-top: 30px;
+     
+}
+
+.enjoy{
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+.box-center{
+    width: 90%;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+
+.box {
+  display: inline-block;
+  padding: 12px;
+  width: 13.3%;
+  height: auto;
+  margin: 15px 15px;
+  text-align: center;
+        
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    text-decoration: none;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    
+}
+
+hr{
+    margin-top: 100px;
+    border: 2px solid;
+    width: 90%;
+}
+
+.footer{
+    font-size: 15px;
+}
+
+.footer1 {
+    font-size: 15px;
+    letter-spacing: 0px;
+}
